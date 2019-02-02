@@ -1,5 +1,5 @@
 ## PhotoGallery
-[](./public/preview01.jpg)
+![](https://i.imgur.com/zPhOiDe.jpg)
 Photo gallery inspired by [Pinterest](https://www.pinterest.ca/) grid layout. Images fetched from [Unsplash](https://unsplash.com/).
 * Dynamic picture gallery
 * Responsive grid layout
